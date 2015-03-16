@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant_provision":{"guestpath":"/vagrant_provision","hostpath":"/home/mathias/vagrant/mytestsetup/provision","disabled":false},"/vagrant_config":{"guestpath":"/vagrant_config","hostpath":"/home/mathias/vagrant/mytestsetup/config","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/mathias/vagrant/mytestsetup/app2","disabled":false}}}
