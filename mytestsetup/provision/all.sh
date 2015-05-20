@@ -26,6 +26,8 @@ then
   cp /vagrant_provision/sshkeys/id_rsa.pub /root/.ssh/
   chown root:root /root/.ssh/id_rsa
   chown root:root /root/.ssh/id_rsa.pub
+  chmod 600 /root/.ssh/id_rsa
+  chmod 600 /root/.ssh/id_rsa.pub
 fi
 
 if [[ ! -f /root/.ssh/authorized_keys ]]
